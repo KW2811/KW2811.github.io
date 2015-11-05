@@ -1,2 +1,9 @@
-h1{color:turquoise;font-size:100px;}
-h1{font:marker}
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url('http://i.imgsafe.org/1ed9654.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
