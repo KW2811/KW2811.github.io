@@ -7,3 +7,19 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.play {
+  display: block;
+  font-family: arial;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30%;
+  height: 70px;
+  width: 140px;
+  border-radius: 30%;
+}
+
+#playLink {
+  text-decoration: none;
+  color: black;
+  font-size: 40px;
+}
