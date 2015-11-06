@@ -24,5 +24,4 @@ $(document).ready(function() {
   $("#right").click(function() {
   	$("#krishnadiv").css("left", "500px");
   });
-
-});
+ 
