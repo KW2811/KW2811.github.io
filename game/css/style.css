@@ -6,7 +6,8 @@ body {
   background-image: url('http://i.imgsafe.org/67ab31b.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  
+  {background-image: url("bg.png");
+background-repeat: no-repeat;}
 }
 .play {
   display: block;
