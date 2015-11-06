@@ -24,3 +24,12 @@ body {
   color: black;
   font-size: 40px;
 }
+
+#krishnadiv {
+  background: url('../krishna.png');
+  background-size: cover !important;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
