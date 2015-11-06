@@ -33,3 +33,11 @@ body {
   width: 200px;
   height: 200px;
 }
+
+#pigdiv {
+  background: url('../Pig.png');
+  display: inline-block;
+  width: 200px;
+  height:200px;
+
+}
