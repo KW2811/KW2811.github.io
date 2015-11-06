@@ -29,15 +29,38 @@ body {
   background: url('../krishna.png');
   background-size: cover !important;
   background-repeat: no-repeat;
-  display: inline-block;
+  display: none;
   width: 200px;
   height: 200px;
 }
 
-#pigdiv {
-  background: url('Pig.png');
-  display: inline-block;
-  width: 200px;
+#Pigdiv {
+  background: url('../Pig.png');
+  position: absolute;
+  display: none;
+  width: 310px;
   height:200px;
+  left:20%;
+  top:2% 
+}
+
+#krishnadiv {
+  position: absolute;
+  left:0%;
+  top:70%;
+  width:200px;
+  height:200px;
+}
+
+#mvkdiv {
+background: url('../mvk.png');
+position: absolute;
+display: none;
+width:200px;
+height:200px;
+top:50%
+left:0%;
+
+
 
 }
