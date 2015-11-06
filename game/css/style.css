@@ -50,17 +50,49 @@ body {
   top:70%;
   width:200px;
   height:200px;
+  transition-property: all;
+    transition-duration: 1s;
+    transition-timing-function: linear;
 }
 
 #mvkdiv {
-background: url('../mvk.png');
-position: absolute;
-display: none;
-width:200px;
-height:200px;
-top:50%
-left:0%;
+  background: url('../mvk.png');
+  position: absolute;
+  display: none;
+  width:200px;
+  height:200px;
+  top:50%;
+  left:85%;
+}
 
+#up {
+  position: absolute;
+  width:50px;
+  height:50px;
+  bottom: 10%;
+  left: 10%; 
+}
 
+#down {
+  position: absolute;
+  width:50px;
+  height:50px;
+  bottom: 5%;
+  left: 10%; 
+}
 
+#right {
+  position: absolute;
+  width:50px;
+  height:50px;
+  bottom: 10%;
+  left: 15%; 
+}
+
+#left {
+  position: absolute;
+  width:50px;
+  height:50px;
+  bottom: 10%;
+  left: 5%; 
 }
